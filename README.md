@@ -1,5 +1,7 @@
-Hi! My name is Daniel Joung and I am currently a 3rd year at Northeastern studying Business administration with a concentration in Finance, as well as a minor in data science.
-I am hoping to pursue some sort of occupation which either incorporates aspects of finance or coding, and analyzing data as well. 
+Hi! My name is Daniel Joung, and I am currently a 3rd year at Northeastern.
+I am studying Business administration with a concentration in Finance, as well as a minor in data science.
+I am hoping to pursue some sort of occupation which either incorporates aspects of finance or coding, and analyzing data as well.
+
 
 
 <!---
